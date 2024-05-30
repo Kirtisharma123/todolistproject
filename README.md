@@ -1,3 +1,16 @@
+# Testing Guidance
+Setup: Clone the repository and navigate to the project directory.
+Install Dependencies: Run npm install to install the required dependencies.
+Start the Application: Run npm start to start the application. Open http://localhost:3000 to view it in the browser.
+# Testing Tasks:
+Add new tasks using the input field and the "Add" button.
+Mark tasks as completed by clicking on the task title.
+Delete tasks using the "Remove" button.
+Use the filter buttons to view all, completed, or active tasks.
+Use the sort buttons to sort tasks alphabetically in ascending or descending order.
+Refresh the page to ensure tasks are saved and loaded correctly from localStorage.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
